@@ -1,1 +1,2 @@
 wand-ui
+test-commitizen
