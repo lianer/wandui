@@ -1,0 +1,22 @@
+{
+  "name": "wandui",
+  "version": "0.0.1",
+  "description": "wandui",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianer/wandui.git"
+  },
+  "keywords": [
+    "wandui"
+  ],
+  "author": "lianer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lianer/wandui/issues"
+  },
+  "homepage": "https://github.com/lianer/wandui#readme"
+}
