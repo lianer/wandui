@@ -1,2 +1,1 @@
-wand-ui
-test-commitizen
+该项目用于 npm 占名
